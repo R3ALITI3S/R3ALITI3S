@@ -2,7 +2,7 @@
 
 👋 Hello, I’m @R3ALITI3S!
 
-- I have a passion for 2D/3D artwork, videography, AR/VR, and illustrations, alongside a burgeoning interest in coding.
+- I have a passion for 2D/3D artwork, videography, AR/VR, and illustrations, alongside an interest in coding.
 
 - Currently, I'm honing my coding skills as a Medialogy student at Aalborg University.
 
