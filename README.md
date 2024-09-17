@@ -12,8 +12,6 @@
 
 - Pronouns: She/Her
 
-- Fun fact: In addition to my creative pursuits, I'm also involved in theater!
-
 Looking forward to forging meaningful collaborations.
 
 <h3 align="left">Languages and Tools:</h3>
