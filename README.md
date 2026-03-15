@@ -3,6 +3,11 @@
 <p align="center">
 🎨 Artist • 🎥 VIisuals • 🕶️ AR/VR Explorer • 💻 Aspiring Developer
 </p>
+<p align="center">
+<a href="https://www.artstation.com/nielda-wiishkers/albums/14851477">Artstation</a> 
+<a href="https://www.linkedin.com/in/nielda-fauerskov-j%C3%B8rgensen/">LinkedIn</a> 
+<a href="https://www.deviantart.com/wiishkers">DeviantArt</a> 
+</p>
 
 ## ✨ About Me
 
@@ -19,6 +24,8 @@ While my main strength is **art and visual creation**, I’m eager to **contribu
 - Studying **Medialogy (BSc) at Aalborg University**  
 - Improving my **coding skills**  
 - Exploring **interactive media, AR/VR, and game development**
+
+<a href="https://www.artstation.com/nielda-wiishkers/albums/14851477">Artstation</a>
   
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=r3aliti3s&theme=panda&hide_border=false&include_all_commits=true&count_private=false" width="405" />
