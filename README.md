@@ -1,7 +1,7 @@
 <h1 align="center">Hi there I'm R3ALITI3S </h1>
 
 <p align="center">
-🎨 Artist • 🎥 VIisuals • 🕶️ AR/VR Explorer • 💻 Aspiring Developer
+ 💻 Aspiring Developer • 🎥 Image processing • Human Computer Interaction • 🎨 Artist
 </p>
 <p align="center">
 <a href="https://www.artstation.com/nielda-wiishkers/albums/14851477">Artstation</a> 
