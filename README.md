@@ -10,7 +10,8 @@
 </p>
 
 ## ✨ About Me
-I’m passionate about *Programming, Human-Computer interaction, Data, Image processing, Machine learning, *
+I’m passionate about *Programming, Human-Computer interaction, Data, Image processing, Machine learning*
+
 Alongside my artistic background, I’m developing my **coding skills as a Medialogy student at Aalborg University**.
 
 I love blending **creativity with technology** to craft engaging digital experiences.
