@@ -10,19 +10,15 @@
 </p>
 
 ## ✨ About Me
-I’m passionate about **2D & 3D artwork, illustrations, videography, and immersive media (AR/VR)**.  
+I’m passionate about *Programming, Human-Computer interaction, Data, Image processing, Machine learning, *
 Alongside my artistic background, I’m developing my **coding skills as a Medialogy student at Aalborg University**.
 
 I love blending **creativity with technology** to craft engaging digital experiences.
 
-
-While my main strength is **art and visual creation**, I’m eager to **contribute to coding and technical tasks** and continue growing as a developer.
-
 ## 🌱 Currently
 - Studying **Medialogy (BSc) at Aalborg University**  
-- Improving my **coding skills**  
-- Exploring **interactive media, AR/VR, and game development**
-
+- Improving my **coding skills**
+  
 ## 👩‍💻 Stats
   
 <p align="center">
